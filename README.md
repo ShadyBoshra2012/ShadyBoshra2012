@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's Shady Boshra, I seek to be a good developer. I have developed many apps that are live now, some packages for Flutter Community. I hope to code more.<br>
+### Welcome to my code repository! As a Senior Fullstack Mobile Developer specializing in Flutter and Node.js, I find inspiration in serving a higher purpose. My commitment to excellence is rooted in my faith, and each line of code is a testament to my dedication to God Jesus.<br>
 
 
 ## 🌐 Socials:
